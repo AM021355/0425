@@ -16,3 +16,11 @@ class cry{
 
  }
 }
+class crymimi{
+
+ void am021352_1(){
+ 
+ System.out.println("Chen4sh");
+ System.out.println("Chen4sh");
+ }
+}
