@@ -6,3 +6,12 @@ public class test0425
  	}
 
 }
+
+class cry{
+
+ void am021352(){
+ 
+ System.out.println("Chen4sh");
+
+ }
+}
