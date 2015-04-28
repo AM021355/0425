@@ -11,3 +11,20 @@ public class test0425
  	}
 
 }
+
+class cry{
+
+ void am021352(){
+ 
+ System.out.println("Chen4sh");
+
+ }
+}
+class crymimi{
+
+ void am021352_1(){
+ 
+ System.out.println("Chen4sh");
+ System.out.println("Chen4sh");
+ }
+}
