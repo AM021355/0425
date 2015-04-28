@@ -4,6 +4,10 @@ public class test0425
 	{
 		System.out.println("Robert");
 		System.out.println("ABC");
+		System.out.println("Robert");
+		System.out.println("ABC");
+		System.out.println("Robert");
+		System.out.println("ABC");
  	}
 
 }
